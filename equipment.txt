@@ -2,3 +2,5 @@ skis
 boots
 helmet
 goggles
+gloves
+wool socks
