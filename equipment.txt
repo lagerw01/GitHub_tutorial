@@ -1,0 +1,4 @@
+skis
+boots
+helmet
+goggles
