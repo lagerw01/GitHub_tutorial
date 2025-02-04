@@ -4,4 +4,3 @@ helmet
 goggles
 gloves
 wool socks
-swimsuit
